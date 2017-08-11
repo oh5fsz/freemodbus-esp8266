@@ -1,0 +1,4 @@
+*.gch
+bin
+**/.output
+*.o
